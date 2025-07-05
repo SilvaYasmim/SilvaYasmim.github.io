@@ -49,3 +49,19 @@ git clone https://github.com/SilvaYasmim/SilvaYasmim.github.io.git
 # Open the index.html file in your browser
 cd SilvaYasmim.github.io
 open index.html  # or just double-click the file
+
+📈 Future Improvements
+
+    Add language switch (PT/EN)
+
+    Include case study pages for each project
+
+    Integrate a contact form (via Formspree or Netlify)
+
+    Add dark mode toggle
+
+👩‍💻 Author
+
+Yasmim Luana Ferreira da Silva
+Lisbon, Portugal
+GitHub | Email
